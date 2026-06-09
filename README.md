@@ -1,1 +1,1 @@
-Data analysis is a course optional with 0.5 credit and about 48 hours. I have taught this course for 2 semestres.
+Data analysis is a course optional with 0.5 credit and about 48 hours. I have taught this course for 2 semestres.Here's the guide and homework i used for my students , which i have referred to many similair courses by IMOOC.
